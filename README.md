@@ -1,2 +1,0 @@
-# PhotoHolic
-Photography Website
